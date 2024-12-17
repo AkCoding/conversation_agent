@@ -1,0 +1,805 @@
+{
+  "classes": [
+    "NAME"
+  ],
+  "annotations": [
+    [
+      "    roma",
+      {
+        "entities": [
+          [
+            4,
+            8,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "its roma",
+      {
+        "entities": [
+          [
+            4,
+            8,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "its shridevi",
+      {
+        "entities": [
+          [
+            4,
+            12,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "my name is shridevi",
+      {
+        "entities": [
+          [
+            11,
+            19,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "i'm roma",
+      {
+        "entities": [
+          [
+            4,
+            8,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "my name is roma",
+      {
+        "entities": [
+          [
+            11,
+            15,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I go by Sam",
+      {
+        "entities": [
+          [
+            8,
+            11,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My full name is Emily Watson.",
+      {
+        "entities": [
+          [
+            16,
+            28,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Call me Lisa",
+      {
+        "entities": [
+          [
+            8,
+            12,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I'm Alice",
+      {
+        "entities": [
+          [
+            4,
+            9,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My full name is Emily Watson",
+      {
+        "entities": [
+          [
+            16,
+            28,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Arbaaz Khan",
+      {
+        "entities": [
+          [
+            0,
+            11,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My name is Marcus Jackson",
+      {
+        "entities": [
+          [
+            11,
+            25,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hey, it's John",
+      {
+        "entities": [
+          [
+            10,
+            14,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hey, I am Alex Parker",
+      {
+        "entities": [
+          [
+            10,
+            21,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My name is Dhruv",
+      {
+        "entities": [
+          [
+            11,
+            16,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hello, I am Ananya Sharma.",
+      {
+        "entities": [
+          [
+            12,
+            25,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "They call me Rajesh.",
+      {
+        "entities": [
+          [
+            13,
+            19,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My name's Christopher Green.",
+      {
+        "entities": [
+          [
+            10,
+            27,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "It's Neha speaking.",
+      {
+        "entities": [
+          [
+            5,
+            9,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I'm known as Aman.",
+      {
+        "entities": [
+          [
+            13,
+            17,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "You can call me Priya.",
+      {
+        "entities": [
+          [
+            16,
+            21,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My full name is Samantha Brown.",
+      {
+        "entities": [
+          [
+            16,
+            30,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hey there, it's Arjun.",
+      {
+        "entities": [
+          [
+            16,
+            21,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "The name is Monica.",
+      {
+        "entities": [
+          [
+            12,
+            18,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hi, I'm Vikram Patel.",
+      {
+        "entities": [
+          [
+            8,
+            20,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My name is Sophia.",
+      {
+        "entities": [
+          [
+            11,
+            17,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Just call me Mike.",
+      {
+        "entities": [
+          [
+            13,
+            17,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hello, this is Natasha.",
+      {
+        "entities": [
+          [
+            15,
+            22,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I'm Rahul.",
+      {
+        "entities": [
+          [
+            4,
+            9,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hey, it's Emily Johnson.",
+      {
+        "entities": [
+          [
+            10,
+            23,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "They know me as Ramesh.",
+      {
+        "entities": [
+          [
+            16,
+            22,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I'm Lisa Carter.",
+      {
+        "entities": [
+          [
+            9,
+            15,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My full name is Peter Parker.",
+      {
+        "entities": [
+          [
+            16,
+            28,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I go by Anjali.",
+      {
+        "entities": [
+          [
+            8,
+            14,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "This is Zayn Malik.",
+      {
+        "entities": [
+          [
+            8,
+            18,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I’m Benjamin.",
+      {
+        "entities": [
+          [
+            4,
+            12,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My name is Isabella.",
+      {
+        "entities": [
+          [
+            11,
+            19,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "People call me Nathan.",
+      {
+        "entities": [
+          [
+            15,
+            21,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "You can refer to me as Akshay.",
+      {
+        "entities": [
+          [
+            23,
+            29,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "It's Sarah Carter.",
+      {
+        "entities": [
+          [
+            5,
+            17,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hi, I'm Rajesh Kumar.",
+      {
+        "entities": [
+          [
+            8,
+            20,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My name is Priya Singh.",
+      {
+        "entities": [
+          [
+            11,
+            22,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "You can call me Ananya.",
+      {
+        "entities": [
+          [
+            16,
+            22,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I'm known as Rohan Malhotra.",
+      {
+        "entities": [
+          [
+            13,
+            27,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hello, this is Meera Iyer.",
+      {
+        "entities": [
+          [
+            15,
+            25,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My full name is Akshay Verma.",
+      {
+        "entities": [
+          [
+            16,
+            28,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "They call me Kavya.",
+      {
+        "entities": [
+          [
+            13,
+            18,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hey, it's Arjun Nair.",
+      {
+        "entities": [
+          [
+            10,
+            20,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My name's Deepika Reddy.",
+      {
+        "entities": [
+          [
+            10,
+            23,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "The name is Suresh.",
+      {
+        "entities": [
+          [
+            12,
+            18,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "People call me Pooja.",
+      {
+        "entities": [
+          [
+            15,
+            20,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "It's Ankit speaking.",
+      {
+        "entities": [
+          [
+            5,
+            10,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I go by Shreya.",
+      {
+        "entities": [
+          [
+            8,
+            14,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "This is Aditya Sharma.",
+      {
+        "entities": [
+          [
+            8,
+            21,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I'm known as Sneha.",
+      {
+        "entities": [
+          [
+            13,
+            18,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My name is Abhishek.",
+      {
+        "entities": [
+          [
+            11,
+            19,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Call me Nisha.",
+      {
+        "entities": [
+          [
+            8,
+            13,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hi, I'm Siddharth Rao.",
+      {
+        "entities": [
+          [
+            8,
+            21,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "My full name is Arvind Joshi.",
+      {
+        "entities": [
+          [
+            16,
+            28,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hey, I am Sunita.",
+      {
+        "entities": [
+          [
+            10,
+            16,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "I'm Prakash.",
+      {
+        "entities": [
+          [
+            4,
+            11,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "You can refer to me as Aditi.",
+      {
+        "entities": [
+          [
+            23,
+            28,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "The name is Varun Kapoor.",
+      {
+        "entities": [
+          [
+            12,
+            24,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hello, I’m Anita Pandey.",
+      {
+        "entities": [
+          [
+            11,
+            23,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "Hi, this is Kartikeya.",
+      {
+        "entities": [
+          [
+            12,
+            21,
+            "NAME"
+          ]
+        ]
+      }
+    ],
+    [
+      "",
+      {
+        "entities": []
+      }
+    ]
+  ]
+}
